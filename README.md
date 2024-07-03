@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fxwpf0633p6axy74/branch/main?svg=true)](https://ci.appveyor.com/project/AleksPLT/aleksplt-hw-1-2-pe/branch/main)
